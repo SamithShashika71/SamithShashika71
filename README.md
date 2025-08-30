@@ -1,44 +1,101 @@
-## About Me
+<h1 align="center">Hi 👋, I'm Samith Shashika  
+    &nbsp <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" width="75">&nbsp;</h1>
 
-Hi, I’m Samith Shashika, a final-year Software Engineering undergraduate at SLTC Research University. I’m passionate about Full Stack Development, Mobile App Development, and Machine Learning, and I enjoy turning innovative ideas into impactful projects.
+###
 
-## My Skills
+<h3 align="center">Fullstack Developer | 
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/2c0eef4b-7b75-42bd-9722-4bea97a2d532" width="30">&nbsp; Tech Explorer | 🎨 Problem Solver</h3>
+  </br>
 
-<img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff"> 
-<img src="https://img.shields.io/badge/Dart-%230175C2.svg?logo=dart&logoColor=white"> 
-<img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff"> 
-<img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white"> 
-<img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white"> 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000"> 
-<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff"> 
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff"> 
-<img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff"> 
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff"> 
-<img src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white"> 
-<img src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white"> 
-<img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white"> 
-<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff"> 
-<img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white"> 
-<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white"> 
-<img src="https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white"> 
-<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff"> 
-<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white"> 
-<img src="https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white"> 
-<img src="https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white"> 
-<img src="https://img.shields.io/badge/Google%20Gemini-886FBF?logo=googlegemini&logoColor=fff"> 
-<img src="https://img.shields.io/badge/GitHub%20Copilot-000?logo=githubcopilot&logoColor=fff"> 
-<img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"> 
-<img src="https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=fff"> 
-<img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff"> 
+<p align="center">
+	<a href="https://github.com/SamithShashika71">
+		<img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineering+Undergraduate;Full+Stack+Developer;AI+and+Mobile+Apps&center=true&width=380&height=45">
+	</a>
+</p>
 
-## GitHub Stats
+###
 
-<table><tbody><tr border="none"><td width="50%" align="center">
-<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/?username=SamithShashika71&theme=dark&show_icons=true&count_private=true">
+<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
 
-<img alt="Mark streak" src="https://github-readme-streak-stats-five-roan.vercel.app?user=SamithShashika71&theme=dark"></td><td width="50%" align="center">
-<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=SamithShashika71&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6"></td></tr></tbody></table>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SamithShashika71&label=Profile%20views&color=0e75b6&style=flat" alt="SamithShashika71" /> </p>
 
-## Connect with me
+###
 
-<p align="center">🔗 LinkedIn: <a href="www.linkedin.com/in/samith-sashika" target="_blank">Samith Shashika</a> Email: samithsashika71@gmail.com</p>
+- 🔭 I’m currently working on [Sign Bridge – Real-time Sri Lankan Sign Language Recognition](https://github.com/SamithShashika71/Sign-Bridge)  
+
+- 🌱 I’m currently learning **React and Artificial Intelligence**  
+
+- 👨‍💻 All of my projects are available at [https://github.com/SamithShashika71](https://github.com/SamithShashika71)
+
+- 📫 How to reach me **samithshashika71@gmail.com**
+
+- ⚡ Fun fact 😄 I think I am funny 🤖 … but my code is always serious!
+
+###
+
+### Skills &nbsp; <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width = 32px> 
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vite" height="30" alt="vite logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="30" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postman" height="30" alt="postman logo"  />
+</div>
+
+###
+
+### Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> 
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/samithshashika71/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://x.com/samithshashika71" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+</div>
+
+###
+
+<br clear="both">
+
+### GitHub Analytics 
+
+| ![Samith's github stats](https://github-readme-stats.vercel.app/api?username=SamithShashika71&show_icons=true&theme=tokyonight) | ![Samith GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SamithShashika71&theme=tokyonight) |
+| --- | --- |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamithShashika71&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=SamithShashika71&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/UlinduRasantha/UlinduRasantha/output/snake.svg" alt="Snake animation" />  
