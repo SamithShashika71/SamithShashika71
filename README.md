@@ -15,7 +15,7 @@
 
 ###
 
-<img align="right" src="https://raw.githubusercontent.com/yourusername/yourrepo/main/boy-working.gif" width="400" alt="Boy working on laptop">
+<img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTlucXlpODQ5Z3AxeGZuMXo0eHU0Z2QyZ3QzcGRuMDR6cjB5NHVrcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Boy studying on laptop">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SamithShashika71&label=Profile%20views&color=0e75b6&style=flat" alt="SamithShashika71" /> </p>
 
