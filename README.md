@@ -4,7 +4,7 @@
 ###
 
 <h3 align="center">Fullstack Developer | 
-   &nbsp 🎨 UI/UX Designer | 🤖 AI/ML Enthusiast </h3>
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/2c0eef4b-7b75-42bd-9722-4bea97a2d532" width="30"> &nbsp 🎨 UI/UX Designer | 🤖 AI/ML Enthusiast </h3>
   </br>
 
 <p align="center">
