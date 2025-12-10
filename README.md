@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Samith Shashika  
-    &nbsp <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" width="75">&nbsp;</h1>
+    &nbsp <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" width="75"> 💻 </h1>
 
 ###
 
 <h3 align="center">Fullstack Developer | 
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/2c0eef4b-7b75-42bd-9722-4bea97a2d532" width="30">&nbsp; 🎨 UI/UX Designer | AI/ML Enthusiast </h3>
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/2c0eef4b-7b75-42bd-9722-4bea97a2d532" width="30"> 🎨 UI/UX Designer | 🤖 AI/ML Enthusiast </h3>
   </br>
 
 <p align="center">
