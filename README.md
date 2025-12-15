@@ -8,7 +8,7 @@
   
 <p align="center">
 	<a href="https://github.com/SamithShashika71">
-		<img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineering+Undergraduate;Full+Stack+Developer;UI+/+UX+Designer;AI+/+ML Enthusiast&center=true&width=380&height=45">
+		<img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineering+Undergraduate;Full+Stack+Developer;UI+/+UX+Designer;AI+/+ML+Enthusiast&center=true&width=380&height=45">
 	</a>
 </p>
 
