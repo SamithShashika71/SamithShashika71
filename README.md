@@ -26,7 +26,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/SamithShashika71](https://github.com/SamithShashika71)
 
-- 📫 How to reach me **samithshashika71@gmail.com**
+- 📫 How to reach me **samithshashika.se@gmail.com**
 
 - ⚡ Fun fact 😄 I think I am funny 🤖 … but my code is always serious!
 
